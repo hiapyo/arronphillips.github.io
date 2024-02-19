@@ -1,0 +1,19 @@
+North America
+('united states','canada','mexico')
+
+South America
+('argentina','bolivia','brazil','chile','colombia','ecuador','falkland islands','french guiana',
+'guyana','paraguay','peru','south georgia and the south sandwich islands','suriname','uruguay','venezuela')
+
+Asia
+('india','china','indonesia','pakistan','bangladesh','japan','philippines','vietnam','iran','turkey',
+'thailand','myanmar','south korea','iraq','afghanistan','saudi arabia','uzbekistan','yemen','malaysia',
+'nepal','north korea','syria','sri lanka','kazakhstan','cambodia','jordan','azerbaijan','tajikistan',
+'united arab emirates','israel','laos','kyrgyzstan','turkmenistan','singapore','state of palestine',
+'lebanon','oman','kuwait','georgia','mongolia','armenia','qatar','bahrain','timor-leste','cyprus',
+'bhutan','maldives','brunei')
+
+Europe + UK
+('austria', 'belgium', 'bulgaria', 'croatia', 'republic of cyprus', 'czech republic', 'denmark', 'estonia',
+'finland', 'france', 'germany', 'greece', 'hungary', 'ireland', 'italy', 'latvia', 'lithuania', 'luxembourg',
+'malta', 'netherlands', 'poland', 'portugal', 'romania', 'slovakia', 'slovenia', 'spain','sweden')
